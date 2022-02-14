@@ -1,0 +1,3 @@
+unit_minor_building_site += {
+	disabled = true
+}

@@ -1,0 +1,3 @@
+unit_major_building_site += {
+	disabled = true
+}
